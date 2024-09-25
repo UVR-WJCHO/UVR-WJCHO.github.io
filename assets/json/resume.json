@@ -10,8 +10,7 @@
   },
   "work": [
     {
-      "name": "KAIST UVR Lab.",
-      "position": "Research Assistant",
+      "position": "KAIST UVR Lab. Research Assistant",
       "url": "https://uvrlab.org/",
       "startDate": "2017-03-01",
       "endDate": "2025-02-28",
@@ -19,8 +18,7 @@
       "highlights": ["Augmented Reality", "3D Tracking", "Computer Vision", "Machine Learning"]
     },
     {
-      "name": "CMU Intensive Program in Artificial Intelligence",
-      "position": "Full-time",
+      "position": "CMU Intensive Program in Artificial Intelligence",
       "startDate": "2019-08-01",
       "endDate": "2020-02-16",
       "summary": ".",
