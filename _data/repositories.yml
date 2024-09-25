@@ -1,14 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - UVR-WJCHO
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - UVR-WJCHO/HOGraspNet
+  - UVR-WJCHO/TEGCN_on_Hololens2
