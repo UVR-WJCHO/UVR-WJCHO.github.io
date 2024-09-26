@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 1
+title: 2023 AI Training Dataset Construction Project
 description: with background image
-img: assets/img/12.jpg
+img: assets/img/dense.png
 importance: 1
 category: work
 related_publications: true
