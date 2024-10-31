@@ -72,29 +72,29 @@
   "projects": [
     {
       "name": "Real-time XR Interface Technology for Environmental Adaptation",
-      "summary": ".",
+      "summary": "Developed the core tracking system foundational to Human-Object interactions",
       "highlights": ["Meta Object", "Human-Scene-Object Interaction", "Wearable eXtended Reality Platform"],
       "startDate": "2024-04-01",
       "endDate": "-"
     },
     {
-      "name": "WISE AR UI/UX Platform Development for Smartglasses",
-      "summary": ".",
-      "highlights": ["Smart Glasses", "Wearable Interface for Sustainable Enhancement"],
-      "startDate": "2019-04-01",
-      "endDate": "2024-12-31"
-    },
-    {
       "name": "2023 Artificial Intelligence Training Dataset Construction Project",
-      "summary": ".",
+      "summary": "Lead a multi-company collaboration, managing all aspects to achieve shared objectives",
       "highlights": ["Hand-Object Interaction Dataset", "Optimization-based Dataset Generation"],
       "url": "https://hograspnet2024.github.io/",
       "startDate": "2023-08-01",
       "endDate": "2023-12-31"
     },
     {
+      "name": "WISE AR UI/UX Platform Development for Smartglasses",
+      "summary": "Developed a hand tracking system on AR HMD to enable responsive interaction",
+      "highlights": ["Smart Glasses", "Wearable Interface for Sustainable Enhancement"],
+      "startDate": "2019-04-01",
+      "endDate": "2024-12-31"
+    },    
+    {
       "name": "Development of Hyper-realistic Remote Virtual Interaction Technology",
-      "summary": ".",
+      "summary": "Contribute to a 3D tracking system for the project",
       "highlights": ["Tele-presence", "Human 3D Tracking", "Avatar reconstruction"],
       "startDate": "2018-06-01",
       "endDate": "2021-02-28"
