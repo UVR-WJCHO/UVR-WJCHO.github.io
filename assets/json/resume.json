@@ -10,18 +10,26 @@
   },
   "work": [
     {
+      "position": "KAIST Post Metaverse Research Center. Post-doctoral Researcher",
+      "url": "https://meta.kaist.ac.kr/rcenter/",
+      "startDate": "2025-03-01",
+      "endDate": ".",
+      "summary": ".",
+      "highlights": ["Augmented Reality", "Computer Vision", "Machine Learning"]
+    },
+    {
       "position": "KAIST UVR Lab. Research Assistant",
       "url": "https://uvrlab.org/",
       "startDate": "2017-03-01",
       "endDate": "2025-02-28",
-      "summary": ".",
+      "summary": "Several projects on Augmented/Virtual Reality. Working with Computer Vision / Machine Learning; Real-time methods, Optimization, Tracking, Datasets, GAN, GCN, etc. Experience with existing Head-mounted Displays and practical utilization.",
       "highlights": ["Augmented Reality", "3D Tracking", "Computer Vision", "Machine Learning"]
     },
     {
       "position": "CMU Intensive Program in Artificial Intelligence",
       "startDate": "2019-08-01",
       "endDate": "2020-02-16",
-      "summary": ".",
+      "summary": "Short-term Project Managing. CMU lectures on Computer Vision / Artificial Intelligence.",
       "highlights": ["Computer Vision", "Artificial Intelligence"]
     }
   ],

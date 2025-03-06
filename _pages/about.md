@@ -19,5 +19,6 @@ I am a researcher passionate about developing technologies that make a tangible 
 Beyond achieving state-of-the-art research outcomes, I am deeply interested in making these technologies accessible and practical for real-world applications. I thrive in interdisciplinary collaborations, leading multi-company projects, and engaging with global research communities. I enjoy exploring new fields, integrating diverse expertise, and solving complex technical challenges to drive innovation in AR and AI-driven interactions.
 
 [Google Scholar](https://scholar.google.co.kr/citations?user=9QIim1QAAAAJ&hl=ko)
-<!-- 
+
+<!--
 [LinkedIn](https://www.linkedin.com/in/woojin-cho/) -->
