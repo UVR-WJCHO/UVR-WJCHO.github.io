@@ -20,4 +20,4 @@ Beyond achieving state-of-the-art research outcomes, I am deeply interested in m
 
 [Google Scholar](https://scholar.google.co.kr/citations?user=9QIim1QAAAAJ&hl=ko)
 
-[LinkedIn](www.linkedin.com/in/woojin-cho)
+[LinkedIn](https://www.linkedin.com/in/woojin-cho/)
