@@ -91,7 +91,7 @@
       "highlights": ["Smart Glasses", "Wearable Interface for Sustainable Enhancement"],
       "startDate": "2019-04-01",
       "endDate": "2024-12-31"
-    },    
+    },
     {
       "name": "Development of Hyper-realistic Remote Virtual Interaction Technology",
       "summary": "Contribute to a 3D tracking system for the project",
@@ -140,25 +140,13 @@
       "name": "Research Area",
       "level": "Expert",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "3D Tracking",
-        "Computer Vision",
-        "Augmented Reality",
-        "Machine Learning",
-        "Dataset acquisition"
-      ]
+      "keywords": ["3D Tracking", "Computer Vision", "Augmented Reality", "Machine Learning", "Dataset acquisition"]
     },
     {
       "name": "Programming Language",
       "level": "Expert",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Python",
-        "C#",
-        "C++",
-        "MATLAB",
-        "Unity"
-      ]
+      "keywords": ["Python", "C#", "C++", "MATLAB", "Unity"]
     }
   ],
   "languages": [
