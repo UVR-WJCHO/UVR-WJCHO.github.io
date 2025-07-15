@@ -1,27 +1,35 @@
 {
   "basics": {
     "name": "Woojin Cho",
-    "label": "Computer Vision/Augmented Reality Engineer",
+    "label": "Augmented Reality / Computer Vision Researcher",
     "image": "",
     "email": "woojin.cho@kaist.ac.kr",
     "phone": "",
     "url": "https://UVR-WJCHO.github.io",
-    "summary": "."
+    "summary": "I am a researcher with a background in mechanical engineering and a Ph.D. in Culture Technology from KAIST, specializing in augmented reality, computer vision, and machine learning. My work focuses on natural hand-object interactions, leveraging advanced tracking, optimization, and datasets to enhance immersive computing and real-world applications."
   },
   "work": [
+    {
+      "position": "KAIST Post Metaverse Research Center. Post-doctoral Researcher",
+      "url": "https://meta.kaist.ac.kr/rcenter/",
+      "startDate": "2025-03-01",
+      "endDate": ".",
+      "summary": ".",
+      "highlights": ["Augmented Reality", "Computer Vision", "Machine Learning"]
+    },
     {
       "position": "KAIST UVR Lab. Research Assistant",
       "url": "https://uvrlab.org/",
       "startDate": "2017-03-01",
       "endDate": "2025-02-28",
-      "summary": ".",
+      "summary": "Several projects on Augmented/Virtual Reality. Working with Computer Vision / Machine Learning; Real-time methods, Optimization, Tracking, Datasets, GAN, GCN, etc. Experience with existing Head-mounted Displays and practical utilization.",
       "highlights": ["Augmented Reality", "3D Tracking", "Computer Vision", "Machine Learning"]
     },
     {
       "position": "CMU Intensive Program in Artificial Intelligence",
       "startDate": "2019-08-01",
       "endDate": "2020-02-16",
-      "summary": ".",
+      "summary": "Short-term Project Managing. CMU lectures on Computer Vision / Artificial Intelligence.",
       "highlights": ["Computer Vision", "Artificial Intelligence"]
     }
   ],
@@ -91,7 +99,7 @@
       "highlights": ["Smart Glasses", "Wearable Interface for Sustainable Enhancement"],
       "startDate": "2019-04-01",
       "endDate": "2024-12-31"
-    },    
+    },
     {
       "name": "Development of Hyper-realistic Remote Virtual Interaction Technology",
       "summary": "Contribute to a 3D tracking system for the project",
@@ -140,25 +148,13 @@
       "name": "Research Area",
       "level": "Expert",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "3D Tracking",
-        "Computer Vision",
-        "Augmented Reality",
-        "Machine Learning",
-        "Dataset acquisition"
-      ]
+      "keywords": ["3D Tracking", "Computer Vision", "Augmented Reality", "Machine Learning", "Dataset acquisition"]
     },
     {
       "name": "Programming Language",
       "level": "Expert",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Python",
-        "C#",
-        "C++",
-        "MATLAB",
-        "Unity"
-      ]
+      "keywords": ["Python", "C#", "C++", "MATLAB", "Unity"]
     }
   ],
   "languages": [
