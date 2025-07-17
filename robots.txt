@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://UVR-WJCHO.github.io/sitemap.xml
+Sitemap: https://uvr-wjcho.github.io/sitemap.xml
