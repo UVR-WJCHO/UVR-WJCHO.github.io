@@ -10,12 +10,27 @@ related_publications: true
 
 From March to December 2023, I led a national AI training data initiative organized by the National Information Society Agency of Korea (NIA). This ambitious project focused on building a world-class dataset for hand-object interaction, with contributions from three industry partners and KAIST.
 
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/HardwareSetup.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/dense.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    (left) Multi-camera studio setup, (right) Overview of HOGraspNet
+</div>
+
+
+
 ## Project Scope and Collaboratio
 
 This was a comprehensive end-to-end R&D project encompassing:
-    - Data collection using a multi-view camera system
-    - Data refinement and processing with custom-built toolkits and frameworks
-    - Rigorous verification and validation, including AI model development
+- Data collection using a multi-view camera system
+- Data refinement and processing with custom-built toolkits and frameworks
+- Rigorous verification and validation, including AI model development
 As the project lead, I guided the overall planning and execution, directly implemented core processing methods, and coordinated collaboration across all partners—from technical roles to data sharing protocols.
 
 ## Technical Approach & Implementation
@@ -31,24 +46,11 @@ To maximize data quality:
 - Built a vision-based auto-inspection tool
 - Designed a dual-stage review system using crowdsourcing
 - Created robust inspection criteria and guidelines
-For dataset validation, I took part in developing an AI model, defining evaluation tasks, and implementing a hand pose estimation algorithm that demonstrated the dataset’s effectiveness.
 
 ## Role & Impact
 As the general lead, I navigated both technical and organizational challenges—solving engineering problems while driving efficient communication between companies.
 The project was successfully completed within a short timeline thanks to cohesive teamwork and agile execution. This hands-on experience in large-scale AI data construction and multi-stakeholder coordination has become a cornerstone of my skillset for future endeavors.
 
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/HardwareSetup.png" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/dense.png" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
 
 
 
