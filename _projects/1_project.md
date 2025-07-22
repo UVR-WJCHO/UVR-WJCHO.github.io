@@ -88,7 +88,7 @@ The project was successfully completed within a short timeline thanks to cohesiv
     Diverse samples in HOGraspNet (best viewed with zoom-in). HOGraspNet captures all hand-object grasp taxonomies with high-quality 3D annotations.
 </div>
 
-## Reference
+## Cite
 
     ---
     @inproceedings{cho2024dense,
