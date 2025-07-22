@@ -20,37 +20,28 @@ From March to December 2023, I led a national AI training data initiative organi
     </div>
 </div>
 <div class="caption">
-    (left) Multi-camera studio setup, (right) Overview of HOGraspNet
+    (left) Multi-camera studio setup, (right) Structure of HOGraspNet. It captures diverse hand-object grasping at 4 different viewpoints. Example RGB images (A) and depth images (B) are shown, while the fitted hand and object meshes are visualized in (C) and (D). (E) shows the contact map.
 </div>
 
 
 
-## Project Scope and Collaboratio
+## Project Scope and Collaboration
 
 This was a comprehensive end-to-end R&D project encompassing:
 - Data collection using a multi-view camera system
-- Data refinement and processing with custom-built toolkits and frameworks
+- Data annotation with custom-built toolkits and frameworks
 - Rigorous verification and validation, including AI model development
+
 As the project lead, I guided the overall planning and execution, directly implemented core processing methods, and coordinated collaboration across all partners—from technical roles to data sharing protocols.
 
 ## Technical Approach & Implementation
+
 Key accomplishments include:
 - Designing and establishing a multi-view camera studio tailored for dataset capture
-- Defining dataset scale, participant guidelines, and collection protocols
+- Defining dataset details, participant guidelines, and collection protocols
 - Developing custom error filtering and sampling toolkits for data refinement
-- Implementing an optimization framework to extract 3D models and poses from RGB-D data
-- Generating precise ground-truth via iterative mesh-based rendering workflows
-
-## Quality Control & Validation
-To maximize data quality:
-- Built a vision-based auto-inspection tool
-- Designed a dual-stage review system using crowdsourcing
-- Created robust inspection criteria and guidelines
-
-## Role & Impact
-As the general lead, I navigated both technical and organizational challenges—solving engineering problems while driving efficient communication between companies.
-The project was successfully completed within a short timeline thanks to cohesive teamwork and agile execution. This hands-on experience in large-scale AI data construction and multi-stakeholder coordination has become a cornerstone of my skillset for future endeavors.
-
+- Implementing an optimization framework to extract accurate 3D poses from RGB-Depth data
+- Generating precise ground-truth via iterative mesh-based rendering workflows including hybrid verification step
 
 
 
@@ -60,53 +51,40 @@ The project was successfully completed within a short timeline thanks to cohesiv
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Automatic annotation pipeline.
 </div>
 
 
 
-<!-- To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+## Quality Control & Validation
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+To maximize data quality:
+- Utilized a bootstrapping approach to reject the outlier pseudo GT keypoints
+- Fine-tuned the segmentation model per object with our manually annotated segmentation masks
+- Conduct both automatic and manual verification steps to further filter out the noisy annotations
 
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/segmentation_examples.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    Examples of our pseudo GT segmentation masks.
 </div>
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
 
-{% raw %}
+## Role & Impact
+As the general lead, I navigated both technical and organizational challenges—solving engineering problems while driving efficient communication between companies.
+The project was successfully completed within a short timeline thanks to cohesive teamwork and agile execution. This hands-on experience in large-scale AI data construction and multi-stakeholder coordination has become a cornerstone of my skillset for future endeavors.
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/AllSample_filtered.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
 </div>
-```
+<div class="caption">
+    Diverse samples in HOGraspNet (best viewed with zoom-in). HOGraspNet captures all hand-object grasp taxonomies with high-quality 3D annotations.
+</div>
 
-{% endraw %} -->
