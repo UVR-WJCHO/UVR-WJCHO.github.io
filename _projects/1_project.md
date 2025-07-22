@@ -20,7 +20,7 @@ From March to December 2023, I led a national AI training data initiative organi
     </div>
 </div>
 <div class="caption">
-    (left) Multi-camera studio setup, (right) Structure of HOGraspNet. It captures diverse hand-object grasping at 4 different viewpoints. Example RGB images (A) and depth images (B) are shown, while the fitted hand and object meshes are visualized in (C) and (D). (E) shows the contact map.
+    (left) Multi-camera studio setup (right) Structure of HOGraspNet. It captures diverse hand-object grasping at 4 different viewpoints. Example RGB images (A) and depth images (B) are shown, while the fitted hand and object meshes are visualized in (C) and (D). (E) shows the contact map.
 </div>
 
 
@@ -88,3 +88,15 @@ The project was successfully completed within a short timeline thanks to cohesiv
     Diverse samples in HOGraspNet (best viewed with zoom-in). HOGraspNet captures all hand-object grasp taxonomies with high-quality 3D annotations.
 </div>
 
+## Reference
+
+    ---
+    @inproceedings{cho2024dense,
+    title={Dense hand-object (ho) graspnet with full grasping taxonomy and dynamics},
+    author={Cho, Woojin and Lee, Jihyun and Yi, Minjae and Kim, Minje and Woo, Taeyun and Kim, Donghwan and Ha, Taewook and Lee, Hyokeun and Ryu, Je-Hwan and Woo, Woontack and others},
+    booktitle={European Conference on Computer Vision},
+    pages={284--303},
+    year={2024},
+    organization={Springer}
+    }
+    ---
