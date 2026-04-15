@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Post-Metaverse Research Center. UVR Lab. Korea Advanced Institute of Science and Technology. woojin.cho@kaist.ac.kr
+subtitle: Post-Metaverse Research Center. UVR Lab. Korea Advanced Institute of Science and Technology.
 
 profile:
   align: right
